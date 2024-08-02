@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ncx version="2005-1" xml:lang="fra" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+<head>
+<meta content="69fd711c-0b19-4316-bd97-0e2d66d7ee41" name="dtb:uid"/>
+<meta content="2" name="dtb:depth"/>
+<meta content="calibre (2.45.0)" name="dtb:generator"/>
+<meta content="0" name="dtb:totalPageCount"/>
+<meta content="0" name="dtb:maxPageNumber"/>
+</head>
+<docTitle>
+<text>White Nights</text>
+</docTitle>
+<navMap>
+<navPoint class="chapter" id="uelyaOza6NmdUt22HbmxYKG" playOrder="3">
+<navLabel>
+<text>[1]</text>
+</navLabel>
+<content src="content/Dostoievski_-_Les_nuits_blanches_split_9.html#uqZKXrE6whPtETODZgLTOTH"/>
+</navPoint>
+<navPoint class="chapter" id="d9cc6850-44b6-451c-bf75-e901208733d3" playOrder="4">
+<navLabel>
+<text><p class="Standard">We must be wary of that obscure instinct we called common sense, which we asked to legitimize our conventions.</p></text>
+</navLabel>
+<content src="content/Dostoievski_-_Les_nuits_blanches_split_9.html#uCW6PLvclSNyDfohAmHZGvA"/>
+</navPoint>
+<navPoint class="chapter" id="c011c68b-8d16-4ca8-835b-923c56447685" playOrder="1">
+<navLabel>
+<text>[1]</text>
+</navLabel>
+<content src="content/Dostoievski_-_Les_nuits_blanches_split_1.html#uiLPpRxTNSEpHrhoAAUNdc9"/>
+</navPoint>
+<navPoint class="chapter" id="ujMheWe62FTdQMpxtTDnDlE" playOrder="2">
+<navLabel>
+<text><p class="Standard">The only thing that is certain is that we are in the dark.</p></text>
+</navLabel>
+<content src="content/Dostoievski_-_Les_nuits_blanches_split_5.html#uxDDlYaOggTuzYcWWTUJI2D"/>
+</navPoint>
+</navMap>
+</ncx>

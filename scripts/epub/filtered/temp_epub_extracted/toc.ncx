@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ncx version="2005-1" xml:lang="fra" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+<head>
+<meta content="ac00b4a6-5546-409f-9d34-c7b01be2119d" name="dtb:uid"/>
+<meta content="2" name="dtb:depth"/>
+<meta content="calibre (5.21.0)" name="dtb:generator"/>
+<meta content="0" name="dtb:totalPageCount"/>
+<meta content="0" name="dtb:maxPageNumber"/>
+</head>
+<docTitle>
+<text>Crime and Punishment</text>
+</docTitle>
+<navMap>
+<navPoint class="chapter" id="num_1" playOrder="0">
+<navLabel>
+<text>Title</text>
+</navLabel>
+<content src="text/part0000_split_000.html#0-bb7e9866aaca40cab2378fae1806911f"/>
+</navPoint>
+<navPoint class="chapter" id="num_2" playOrder="1">
+<navLabel>
+</navLabel>
+<content src="text/part0001.html#UGI0-bb7e9866aaca40cab2378fae1806911f"/>
+</navPoint>
+<navPoint class="chapter" id="num_3" playOrder="2">
+<navLabel>
+<text>PART ONE</text>
+</navLabel>
+<content src="text/part0002_split_000.html#1T140-bb7e9866aaca40cab2378fae1806911f"/>
+</navPoint>
+<navPoint class="chapter" id="num_4" playOrder="3">
+<navLabel>
+<text>PART TWO</text>
+</navLabel>
+<content src="text/part0003_split_000.html#2RHM0-bb7e9866aaca40cab2378fae1806911f"/>
+</navPoint>
+<navPoint class="chapter" id="num_5" playOrder="4">
+<navLabel>
+<text>THIRD PART</text>
+</navLabel>
+<content src="text/part0004_split_000.html#3Q280-bb7e9866aaca40cab2378fae1806911f"/>
+</navPoint>
+<navPoint class="chapter" id="num_6" playOrder="5">
+<navLabel>
+<text>FOURTH PART</text>
+</navLabel>
+<content src="text/part0005_split_000.html#4OIQ0-bb7e9866aaca40cab2378fae1806911f"/>
+</navPoint>
+<navPoint class="chapter" id="num_7" playOrder="6">
+<navLabel>
+<text>FIFTH PART I</text>
+</navLabel>
+<content src="text/part0006_split_000.html#5N3C0-bb7e9866aaca40cab2378fae1806911f"/>
+</navPoint>
+<navPoint class="chapter" id="num_8" playOrder="7">
+<navLabel>
+<text>SIXTH PART I</text>
+</navLabel>
+<content src="text/part0007_split_000.html#6LJU0-bb7e9866aaca40cab2378fae1806911f"/>
+</navPoint>
+<navPoint class="chapter" id="num_9" playOrder="8">
+<navLabel>
+<text>EPILOGUE</text>
+</navLabel>
+<content src="text/part0008_split_000.html#7K4G0-bb7e9866aaca40cab2378fae1806911f"/>
+</navPoint>
+<navPoint class="chapter" id="num_10" playOrder="9">
+<navLabel>
+<text>About Crime and Punishment</text>
+</navLabel>
+<content src="text/part0009.html#8IL20-bb7e9866aaca40cab2378fae1806911f"/>
+</navPoint>
+<navPoint class="chapter" id="num_11" playOrder="10">
+<navLabel>
+<text>Notes</text>
+</navLabel>
+<content src="text/part0010.html#9H5K0-bb7e9866aaca40cab2378fae1806911f"/>
+</navPoint>
+</navMap>
+</ncx>

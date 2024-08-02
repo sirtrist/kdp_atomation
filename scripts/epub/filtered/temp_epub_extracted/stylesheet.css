@@ -1,0 +1,324 @@
+.attribution-rw {
+    display: block;
+    font-style: normal;
+    text-align: right;
+    text-indent: 1.3em;
+    margin: 0;
+    padding: 0
+    }
+.block-rw {
+    -moz-box-sizing: border-box;
+    -o-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    display: block;
+    text-align: center;
+    margin: 2em 0 0;
+    padding: 0
+    }
+.block-rw1 {
+    -moz-box-sizing: border-box;
+    -o-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    display: block;
+    font-size: 1em;
+    line-height: 1.25em;
+    margin: 0;
+    padding: 1.5em 1em 0
+    }
+.block-rw2 {
+    -moz-box-sizing: border-box;
+    -o-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    display: block;
+    font-size: 1em;
+    font-style: italic;
+    line-height: 1.25em;
+    margin: 1em;
+    padding: 0
+    }
+.calibre {
+    display: block;
+    font-family: "times new roman", times, serif;
+    font-size: 1em;
+    text-align: justify;
+    margin: 0 5pt;
+    padding: 0
+    }
+.calibre1 {
+    display: block;
+    font-size: 2em;
+    font-style: normal;
+    font-weight: normal;
+    line-height: 1.25em;
+    padding-bottom: 0;
+    text-align: center;
+    margin: 0.67em 0 0
+    }
+.calibre2 {
+    display: block;
+    font-size: 1em;
+    font-style: normal;
+    font-weight: normal;
+    line-height: 1.25em;
+    text-indent: 0;
+    margin: 0;
+    padding: 0
+    }
+.calibre3 {
+    display: block;
+    text-align: center;
+    text-indent: 0;
+    margin: 0;
+    padding: 0
+    }
+.calibre4 {
+    font-style: italic
+    }
+.calibre5 {
+    display: block;
+    text-align: center;
+    text-indent: 1em;
+    margin: 0;
+    padding: 0
+    }
+.calibre6 {
+    display: block;
+    font-size: 1.29167em;
+    font-style: normal;
+    font-weight: normal;
+    line-height: 1.25em;
+    text-align: center;
+    margin: 0.67em 0
+    }
+.calibre7 {
+    -moz-hyphens: none;
+    -o-hyphens: none;
+    -webkit-hyphens: none;
+    display: block;
+    font-size: 1.29167em;
+    font-style: normal;
+    font-weight: normal;
+    hyphens: none;
+    line-height: 1.2;
+    page-break-after: avoid;
+    text-align: center;
+    text-transform: uppercase;
+    margin: 2em 0 0.2em
+    }
+.calibre8 {
+    display: block;
+    text-indent: 0;
+    margin: 0;
+    padding: 0
+    }
+.calibre9 {
+    font-weight: bold
+    }
+.calibre10 {
+    display: block;
+    font-size: 1.29167em;
+    font-weight: normal;
+    line-height: 1.25em;
+    text-align: center;
+    margin: 0.67em 0
+    }
+.calibre11 {
+    display: block;
+    font-size: 0.75em;
+    line-height: 1.2em;
+    text-indent: -2.5em;
+    margin: 0 0 0 2.5em;
+    padding: 0
+    }
+.calibre12 {
+    display: block
+    }
+.firstpara-rw {
+    display: block;
+    text-indent: 1.3em;
+    margin: 0;
+    padding: 0
+    }
+.frontmatter-rw {
+    -moz-box-sizing: border-box;
+    -o-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0
+    }
+.frontmatter-rw1 {
+    -moz-box-sizing: border-box;
+    -o-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    font-size: 0.75em;
+    line-height: 1.25em;
+    margin: 0;
+    padding: 1.5em 1em 0
+    }
+.galley-rw {
+    -moz-box-sizing: border-box;
+    -o-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    display: block;
+    font-size: 1em;
+    line-height: 1.25em;
+    text-align: justify;
+    margin: 0;
+    padding: 0
+    }
+.leading-line-rw {
+    display: block;
+    height: 1em;
+    text-align: center;
+    text-indent: 0;
+    margin: 0;
+    padding: 0
+    }
+.list-named-rw {
+    -moz-box-sizing: border-box;
+    -o-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    display: block;
+    position: relative;
+    margin: 1em 0;
+    padding: 0
+    }
+.num-note-rw {
+    display: inline-block;
+    float: none;
+    font-size: 1em;
+    font-weight: normal;
+    line-height: 1.2;
+    text-align: right;
+    text-indent: 0;
+    width: 2em;
+    margin: 0 1em 0 0;
+    padding: 0
+    }
+.pcalibre {
+    line-height: 1.2
+    }
+.poem-rw {
+    -moz-box-sizing: border-box;
+    -o-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    display: block;
+    width: 100%;
+    margin: 1em auto;
+    padding: 0
+    }
+.poem-rw1 {
+    -moz-box-sizing: border-box;
+    -o-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    display: block;
+    margin: 0 auto;
+    padding: 0
+    }
+.poem-rw2 {
+    -moz-box-sizing: border-box;
+    -o-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    display: block;
+    margin: 0 0 1em;
+    padding: 0
+    }
+.ref-note-rw {
+    font-size: 1em;
+    line-height: 1.2;
+    vertical-align: super;
+    margin: 0;
+    padding: 0
+    }
+.ref-note-rw1 {
+    font-size: 0.75em;
+    line-height: 1.2;
+    vertical-align: super;
+    margin: 0;
+    padding: 0
+    }
+.smallcaps-rw {
+    font-variant: small-caps;
+    margin: 0;
+    padding: 0
+    }
+.superscript-rw {
+    font-size: 0.625em;
+    line-height: 1.2;
+    vertical-align: super;
+    margin: 0;
+    padding: 0
+    }
+.text-small-rw {
+    font-size: 0.75em;
+    margin: 0;
+    padding: 0
+    }
+.title-author-rw {
+    display: block;
+    font-size: 1.29167em;
+    font-style: normal;
+    font-weight: normal;
+    line-height: 1.25em;
+    text-align: center;
+    text-indent: 0;
+    margin: 0;
+    padding: 0 0 1.5em
+    }
+.title-block-book-rw {
+    -moz-box-sizing: border-box;
+    -o-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    display: block;
+    font-size: 1em;
+    line-height: 1.25em;
+    text-align: center;
+    margin: 0;
+    padding: 3em 0 0
+    }
+.title-block-rw {
+    -moz-box-sizing: border-box;
+    -o-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    display: block;
+    text-align: center;
+    margin: 0 0 1em;
+    padding: 2em 1em 1em
+    }
+.title-contributor-rw {
+    display: block;
+    font-size: 1.29167em;
+    font-style: normal;
+    font-weight: normal;
+    line-height: 1.2;
+    text-align: center;
+    text-indent: 0;
+    margin: 0;
+    padding: 1em 0
+    }
+.pcalibre1:link {
+    color: inherit;
+    text-decoration: none
+    }
+.pcalibre2:visited {
+    color: rgb(0, 100, 150)
+    }
+.pcalibre3:hover {
+    color: rgb(0, 100, 150);
+    text-decoration: underline
+    }
+.pcalibre4:active {
+    color: rgb(0, 100, 150)
+    }

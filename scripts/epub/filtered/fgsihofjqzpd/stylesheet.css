@@ -1,0 +1,152 @@
+.calibre {
+    display: block;
+    font-size: 1em;
+    padding-left: 0;
+    padding-right: 0;
+    text-align: justify;
+    margin: 0 5pt
+    }
+.calibre_class_ {
+    color: black;
+    line-height: 1.2
+    }
+.calibre_class_1 {
+    color: #330
+    }
+.calibre_class_2 {
+    text-transform: uppercase
+    }
+.calibre1 {
+    color: black;
+    display: block;
+    font-size: 1.29167em;
+    font-weight: bold;
+    line-height: 1.2;
+    page-break-after: avoid;
+    text-align: center;
+    margin: 0 0 0.0001pt
+    }
+.calibre2 {
+    line-height: 1.2
+    }
+.calibre3 {
+    color: black;
+    display: block;
+    font-size: 2em;
+    font-weight: bold;
+    line-height: 1.2;
+    page-break-after: avoid;
+    text-align: center;
+    margin: 0 0 6pt
+    }
+.calibre4 {
+    color: blue;
+    cursor: pointer;
+    line-height: 1.2;
+    text-decoration: underline
+    }
+.calibre5 {
+    font-weight: bold;
+    line-height: 1.2
+    }
+.calibre6 {
+    font-style: italic
+    }
+.calibre7 {
+    color: inherit;
+    cursor: default;
+    line-height: 1.2;
+    text-decoration: inherit
+    }
+.calibre8 {
+    color: blue;
+    cursor: pointer;
+    text-decoration: underline
+    }
+.calibre9 {
+    font-weight: bold
+    }
+.calibre10 {
+    color: inherit;
+    cursor: default;
+    text-decoration: inherit
+    }
+.calibre11 {
+    font-size: 0.75em;
+    line-height: normal;
+    vertical-align: super
+    }
+.calibre12 {
+    display: block
+    }
+.calibre13 {
+    color: gray;
+    display: block;
+    height: 2px;
+    text-align: left;
+    border-top: currentColor solid 1px;
+    border-right: currentColor none 1px;
+    border-bottom: currentColor none 1px;
+    border-left: currentColor none 1px;
+    margin: 0.5em auto
+    }
+.msofootnotereference {
+    line-height: 1.2;
+    vertical-align: super
+    }
+.msofootnotereference1 {
+    vertical-align: super
+    }
+.msofootnotetext {
+    display: block;
+    text-align: justify;
+    text-indent: 0.3in;
+    margin: 0 0 0.0001pt
+    }
+.msonormal {
+    display: block;
+    text-align: justify;
+    text-indent: 0.3in;
+    margin: 0 0 6pt
+    }
+.msonormal1 {
+    display: block;
+    text-align: center;
+    text-indent: 0;
+    margin: 0 0 6pt
+    }
+.msonormal2 {
+    display: block;
+    text-align: justify;
+    text-indent: 0.3in;
+    margin: 0 0 6pt 0.5in
+    }
+.msonormal3 {
+    display: block;
+    text-align: center;
+    text-indent: 0.3in;
+    margin: 0 0 6pt 0.5in
+    }
+.msonormal4 {
+    display: block;
+    text-align: justify;
+    text-indent: 0.3in;
+    margin: 0 0 3pt
+    }
+.msonormal5 {
+    display: block;
+    text-align: center;
+    text-indent: 0;
+    margin: 0 0 3pt
+    }
+.section {
+    display: block
+    }
+.pcalibre:link {
+    color: gray;
+    text-decoration: underline
+    }
+.pcalibre1:visited {
+    color: gray;
+    text-decoration: none
+    }
